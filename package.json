@@ -1,0 +1,14 @@
+{
+  "name": "vote-monster-api",
+  "version": "1.0.0",
+  "description": " fake api for vote monster app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "JK",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
