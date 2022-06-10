@@ -1,0 +1,167 @@
+{
+  "modules": [
+    {
+      "id": 1,
+      "name": "Self-modeling"
+    },
+    {
+      "id": 2,
+      "name": "Politics"
+    },
+    {
+      "id": 3,
+      "name": "Attraction preferences"
+    }
+  ],
+  "segments": [
+    {
+      "id": 1,
+      "module": 1,
+      "title": "What are you more afraid of?"
+    },
+    {
+      "id": 2,
+      "module": 1,
+      "title": "Who do you find more attractive?"
+    },
+    {
+      "id": 3,
+      "module": 2,
+      "title": "I would prefer that whistleblowers..."
+    },
+    {
+      "id": 4,
+      "module": 2,
+      "title": "What should your tax dollars fund?"
+    }
+  ],
+  "voteOptions": [
+    {
+      "segmentId": 4,
+      "options": [
+        {
+          "id": 1,
+          "name": "Environmental Protection",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 2,
+          "name": "Public Education",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 3,
+          "name": "Food & Agriculture",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 4,
+          "name": "Healthcare",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 5,
+          "name": "Housing & Development",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 6,
+          "name": "Transportation",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 7,
+          "name": "Scientific research",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 8,
+          "name": "Medical research",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 9,
+          "name": "Public Assistance Programs",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 10,
+          "name": "Govermental Operations",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 11,
+          "name": "Non-military Foreign Affairs",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 12,
+          "name": "Retirement Benefits",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 13,
+          "name": "Veterans Benefits",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 14,
+          "name": "International Aid",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 15,
+          "name": "Military Operations",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 16,
+          "name": "Corporate Welfare",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 17,
+          "name": "Arts & Humanities",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 18,
+          "name": "Criminal Justice",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 19,
+          "name": "Infrastructure & Maintenance",
+          "img": null,
+          "metadata": null
+        },
+        {
+          "id": 20,
+          "name": "Energy Production",
+          "img": null,
+          "metadata": null
+        }
+      ]
+    }
+  ],
+  "voteCombinations": [],
+  "userVoteResult": []
+}
